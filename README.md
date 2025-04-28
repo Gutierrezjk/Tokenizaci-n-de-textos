@@ -1,1 +1,1 @@
-Trabajo del Grupo_33, corepsondiente a la semana 4, consistente en la tokenización de textos, CountVectorizer.ountVectorizer usando trigramas. TfidfVectorizer, comparando desdepeño utilzando la métrica MSE.
+Trabajo del Grupo_33, corespondiente a la semana 4, consistente en la tokenización de textos,utilizando CountVectorizer, countVectorizer con trigramas y TfidfVectorizer, comparando desempeño idividual utilizando la métrica MSE.
